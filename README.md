@@ -28,7 +28,7 @@ INBOX_ID=<team inbox id>
 ## Usage
 
 This module implements:
-1. A CLI to pull and save data to cache directory
+1. A CLI to pull and save data to a cache directory
 2. A Python API to load the cached conversation and message data
 
 
