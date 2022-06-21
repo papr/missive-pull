@@ -21,7 +21,7 @@ CACHE_TEMPLATE_MESSAGES = "messages.{}.msgpack"
 
 
 try:
-    __version__ = version("pull-missive")
+    __version__ = version("missive-pull")
 except PackageNotFoundError:
     logging.warning("Package is not installed. __version__ won't be available.")
     __version__ = "not available"
