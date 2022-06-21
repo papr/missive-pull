@@ -49,6 +49,7 @@ Options:
 
 Example:
 ```
+missive-pull -v -until 2022-06-01
 missive-pull -v -delta 12 weeks
 ```
 
