@@ -1,3 +1,4 @@
+*.cache.d/
 
 # Created by https://www.toptal.com/developers/gitignore/api/Python,VisualStudioCode,macOS,Windows,Linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=Python,VisualStudioCode,macOS,Windows,Linux
@@ -24,7 +25,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
